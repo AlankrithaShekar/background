@@ -1,0 +1,23 @@
+:root {
+    --red: 100;
+    --blue: 120;
+    --green : 60;
+  
+  }
+
+ body{
+    background-color: rgb(var(--red),var(--green),var(--blue));
+ }
+
+ p{
+     text-align: center;
+     font-size: 60px;
+ }
+
+label{
+    text-align: Center;
+    clear: both; 
+    font-size: 24px;
+    color: black;
+
+}
